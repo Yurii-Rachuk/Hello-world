@@ -1,3 +1,3 @@
 # Hello-world
-# I am stady git
+# I am study git
 # Повідомлення про фіксацію яке описує зміни?
